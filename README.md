@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate Software Engineering student and Full-Stack Developer dedicated to building scalable web and mobile applications. I thrive on solving complex problems with the MERN/PERN stack and exploring the intersection of AI and practical software solutions.<br><br>🚀 About Me:<br>🔭 I’m currently working on: An AI-Powered Final Year Project Idea Generator using React and Node.js.<br><br>👯 I’m looking to collaborate on: Open-source projects involving React Native, Flutter, or innovative AI/LLM integrations.<br><br>🤝 I’m looking for help with: Advanced Cloud deployment strategies and scaling real-time applications.<br><br>🌱 I’m currently learning: Deepening my expertise in Retrieval-Augmented Generation (RAG) and Cloud Infrastructure.<br><br>💬 Ask me about: JavaScript/TypeScript, MERN/PERN Stack, Mobile App Development, or PUBG Mobile game mechanics and optimization.<br><br>⚡ Fun fact: I can spend hours fine-tuning FPS settings and device performance for mobile gaming just as intensely as I debug code!
+Passionate Software Engineering student and Full-Stack Developer dedicated to building scalable web and mobile applications. I thrive on solving complex problems with the MERN/PERN stack and exploring the intersection of AI and practical software solutions.
 
 
 ## 🌐 Socials:
